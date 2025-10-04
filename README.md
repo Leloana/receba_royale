@@ -1,10 +1,10 @@
 # Rodando a Aplicacao (no caso eu estou usando isso ai)
 
 ```csharp
-   v22.20.0 (para o tailwind 4)
+v22.20.0 (para o tailwind 4)
 ```
 ```csharp
-   openjdk version "21.0.7" 2025-04-15 LTS
+openjdk version "21.0.7" 2025-04-15 LTS
 ```
    backend: localhost:8080
    frontend: localhost:5173
