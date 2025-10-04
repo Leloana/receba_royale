@@ -1,7 +1,11 @@
 # Rodando a Aplicacao (no caso eu estou usando isso ai)
-   v22.20.0 (para o tailwind 4)
-   openjdk version "21.0.7" 2025-04-15 LTS
 
+```csharp
+   v22.20.0 (para o tailwind 4)
+```
+```csharp
+   openjdk version "21.0.7" 2025-04-15 LTS
+```
    backend: localhost:8080
    frontend: localhost:5173
 
