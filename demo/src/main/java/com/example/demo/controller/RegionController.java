@@ -21,4 +21,5 @@ public class RegionController {
         Map<String, Object> data = regionService.getTopDecksByRegion(locationId);
         return ResponseEntity.ok(data);
     }
+    
 }
